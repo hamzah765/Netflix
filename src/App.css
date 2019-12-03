@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: black;
+  color: white;
+  
+}
+.Netflix {
+  font-size: 25px;
+  margin: 10px;
+  background: rgb(63, 63, 63);
+  width: 750px;
+  height: 70px;
+  display:flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-flow: wrap;
+  
+
+}
+h2 {
+  background: red;
+  text-align: center;
+  height: 50px;
+ margin-right: 820px;
+ margin-left: 200px;
+ margin-top: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin-right: 550px;
+}
+.netflix {
+  text-align: right;
+  font-size: 40px;
+  float: left;
+}
+
+.all{
+  text-align: center;
+  margin-left: 25%;
+}
